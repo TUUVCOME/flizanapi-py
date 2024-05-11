@@ -1,5 +1,6 @@
 # flizanapi-py
 Простая библиотека для взаимодействия с FlizanApi
+Получать токен тут: https://api.flizan.ru/
 
 # Начало
 
